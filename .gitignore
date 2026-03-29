@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+src/component/database_connection.py
+data_analysis_projeect.ipynb
+hello.py
+pandas.ipynb

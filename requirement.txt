@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+uvicorn
+fastapi
+joblib
+xgboost
+streamlit
+-e .
