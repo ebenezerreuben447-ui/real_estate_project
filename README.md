@@ -30,17 +30,7 @@ The app showcases:
 - **MySQL** – database (connection hidden with `.env`)
 
 ---
-#Following this project structure
-.
-├── src/
-│ └── component/
-│ └── database_connection.py # ignored in GitHub
-├── artifact/ # stored models and outputs
-├── app.py # Streamlit frontend
-├── main.py # FastAPI backend
-├── Note.ipynb # Notes and EDA
-├── data_analysis_project.ipynb # Data analysis notebook
-├── requirements.txt # Python dependencies
+
 └── README.md # This file
 
 ## Project Structure
